@@ -1,9 +1,9 @@
-e21fbe8a7913d4007386e9aea16edfb6 *DESCRIPTION
+e5173b2757c31eb0136715b9a7fd3e66 *DESCRIPTION
 56c7bad4156f641853c10ce65d29994e *NAMESPACE
 99c59b24367f455cdeb1bc4fb9b21e35 *R/centroidssummary.R
 9b018c2a0bc49f353bae7f9ff1bc0af3 *R/hkclusplus.R
 a79e2ed93d3ba32e57536b0165c9d1ab *R/hkclustering.R
 a3c7ce9e2781301ba2e8b59d487e8ec1 *man/centroidssummary.Rd
-d05acd5255911fb3101b55fa671f589c *man/hkclusplus.Rd
+6ac2d4b2f1a021a402f28b00bb8cc147 *man/hkclusplus.Rd
 5074632c39f13909bcfef7fb5a0fc480 *man/hkclustering-package.Rd
 3214c8059f30041077cdeccaf452fd3b *man/hkclustering.Rd

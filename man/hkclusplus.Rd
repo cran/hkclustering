@@ -30,8 +30,8 @@ Kaloyan S <kaloyanS@profusion.com>
 ##-- ==>  Define data, use random,
 ##--	or do  help(data=index)  for the standard data sets.
 
-a<-runif(500, min=3.5, max=2000)
-b<-runif(500, min=1.5, max=2000)
+a<-runif(300, min=3.5, max=2000)
+b<-runif(300, min=1.5, max=2000)
 df = data.frame(a, b) 
 
 #Let the Gap statistic to find the clusters
